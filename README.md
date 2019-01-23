@@ -1,4 +1,4 @@
-# FSWD Linux Configuration Project
+# FSND Linux Configuration Project
 * Server ip address : 35.177.139.65
 * SSH Port : 2200
 * Server url : ec2-35-177-139-65.eu-west-2.compute.amazonaws.com [1]
